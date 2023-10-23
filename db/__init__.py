@@ -1,0 +1,1 @@
+print('init module', __name__)
